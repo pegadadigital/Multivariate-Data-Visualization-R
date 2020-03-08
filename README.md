@@ -3,15 +3,6 @@ This content is based on the course of [Udemy](https://www.udemy.com/course/mult
 
 Graphically depict visual 2D, 3D, 4D (and so on) relationships that exist in multivariate data sets.
 
-<p float="left">
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png" width="450" />
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png" width="450" /> 
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/3.png" width="900" />
-</p>
-<p float="left">
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/4.png" width="900" />
-</p>
-
 ### Starting Docker container
 
 The project has a **Docker** folder with composer yaml file based on [stefanproell](https://github.com/stefanproell/jupyter-notebook-docker-compose) scripts. Follow the instructions bellow to start the container:
@@ -66,3 +57,13 @@ The **Notebook** folder has the source files in Jupyter:
  
 * Multiway Tables and Scatter Plots Chapter 5.ipynb - Scatter Plot
 * Trivariate Displlays Chapter 6.ipynb
+
+
+<p float="left">
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png" width="300" />
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png" width="300" /> 
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/3.png" width="900" />
+</p>
+<p float="left">
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/4.png" width="900" />
+</p>
