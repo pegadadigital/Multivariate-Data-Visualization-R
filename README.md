@@ -3,6 +3,8 @@ This content is based on the course of [Udemy](https://www.udemy.com/course/mult
 
 Graphically depict visual 2D, 3D, 4D (and so on) relationships that exist in multivariate data sets.
 
+![alt text](https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png "Img1") ![alt text](https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png "Img2")
+
 ### Starting Docker container
 
 The project has a **Docker** folder with composer yaml file based on [stefanproell](https://github.com/stefanproell/jupyter-notebook-docker-compose) scripts. Follow the instructions bellow to start the container:
