@@ -41,7 +41,7 @@ The **Notebook** folder has the source files in Jupyter:
  7. The Panel Function
  8. Summary figures functions
  
- * Introduction to Lattice and to Trellis Graphics Chapter 3.ipynb
+* Introduction to Lattice and to Trellis Graphics Chapter 3.ipynb
  1. densityplot
  2. histogram
  3. qqmath
@@ -49,3 +49,11 @@ The **Notebook** folder has the source files in Jupyter:
  5. qq
  6. bwplot
  7. stripplot
+
+* Multiway Tables and Scatter Plots Chapter 4.ipynb
+ 1. dotplot
+ 2. barchart
+ 3. xyplot
+ 
+* Multiway Tables and Scatter Plots Chapter 5.ipynb - Scatter Plot
+* Trivariate Displlays Chapter 6.ipynb
