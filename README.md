@@ -23,7 +23,7 @@ The project has a **Docker** folder with composer yaml file based on [stefanproe
 ### Visualization
 
 The **Notebook** folder has the source files in Jupyter:
-* Introduction to Lattice and to Trellis Graphics.ipynb
+* Introduction to Lattice and to Trellis Graphics Chapter 1.ipynb
  1. Histogram
  2. Kernel Density Plot
  3. Superposition
@@ -31,3 +31,12 @@ The **Notebook** folder has the source files in Jupyter:
  5. Functions in lattice
  6. Summary figures functions
  
+* Introduction to Lattice and to Trellis Graphics Chapter 2.ipynb
+ 1. Dimension and phisical layout
+ 2. Aspect Ratio
+ 3. Layout
+ 4. Grouped Displays
+ 5. Annotation: Captions, Labels and Legends
+ 6. Scales and axis
+ 7. The Panel Function
+ 8. Summary figures functions
