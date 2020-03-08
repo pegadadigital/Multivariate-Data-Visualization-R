@@ -4,9 +4,9 @@ This content is based on the course of [Udemy](https://www.udemy.com/course/mult
 Graphically depict visual 2D, 3D, 4D (and so on) relationships that exist in multivariate data sets.
 
 <p float="left">
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png" width="300" />
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png" width="300" /> 
-  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/3.png" width="300" />
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png" width="450" />
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png" width="450" /> 
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/3.png" width="900" />
 </p>
 <p float="left">
   <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/4.png" width="900" />
