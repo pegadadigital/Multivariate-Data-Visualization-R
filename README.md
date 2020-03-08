@@ -3,7 +3,14 @@ This content is based on the course of [Udemy](https://www.udemy.com/course/mult
 
 Graphically depict visual 2D, 3D, 4D (and so on) relationships that exist in multivariate data sets.
 
-![alt text](https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png "Img1") ![alt text](https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png "Img2")
+<p float="left">
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/1.png" width="100" />
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/2.png" width="100" /> 
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/3.png.png" width="100" />
+</p>
+<p float="left">
+  <img src="https://github.com/pegadadigital/Multivariate-Data-Visualization-R/blob/master/Images/4.png" width="300" />
+</p>
 
 ### Starting Docker container
 
