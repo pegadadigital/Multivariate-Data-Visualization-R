@@ -9,23 +9,23 @@ The project has a **Docker** folder with composer yaml file based on [stefanproe
 * Generet cert file or use the one in SSLCERT folder:\
 `openssl req -x509 -nodes -newkey rsa:2048 -keyout jupyter.pem -out jupyter.pem`
 * Adapt **.env** variables, alter variables directories:
- * LOCAL_WORKING_DIR
- * ACCESS_TOKEN
- * PORT
- * LOCAL_DATASETS
- * LOCAL_MODULES
- * LOCAL_SSL_CERTS
+    * LOCAL_WORKING_DIR
+    * ACCESS_TOKEN
+    * PORT
+    * LOCAL_DATASETS
+    * LOCAL_MODULES
+    * LOCAL_SSL_CERTS
 * Start the container:\
 `docker-commpose up --build`
 
 ### Visualization
 
-The **Notebook** folder has the source files in Jupyter:
-* Introduction to Lattice and to Trellis Graphics.ipynb
- 1. Histogram
- 2. Kernel Density Plot
- 3. Superposition
- 4. Trellis Object
- 5. Functions in lattice
- 6. Summary figures functions
+The **Notebook** folder has the source files in Jupyter:\
+* Introduction to Lattice and to Trellis Graphics.ipynb\
+    1. Histogram
+    2. Kernel Density Plot
+    3. Superposition
+    4. Trellis Object
+    5. Functions in lattice
+    6. Summary figures functions
  
