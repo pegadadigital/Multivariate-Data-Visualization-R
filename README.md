@@ -20,12 +20,12 @@ The project has a **Docker** folder with composer yaml file based on [stefanproe
 
 ### Visualization
 
-The **Notebook** folder has the source files in Jupyter:\
-* Introduction to Lattice and to Trellis Graphics.ipynb\
-    1. Histogram
-    2. Kernel Density Plot
-    3. Superposition
-    4. Trellis Object
-    5. Functions in lattice
-    6. Summary figures functions
+The **Notebook** folder has the source files in Jupyter:
+* Introduction to Lattice and to Trellis Graphics.ipynb
+ 1. Histogram
+ 2. Kernel Density Plot
+ 3. Superposition
+ 4. Trellis Object
+ 5. Functions in lattice
+ 6. Summary figures functions
  
