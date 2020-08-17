@@ -8,7 +8,7 @@ Graphically depict visual 2D, 3D, 4D (and so on) relationships that exist in mul
 The project has a **Docker** folder with composer yaml file based on [stefanproell](https://github.com/stefanproell/jupyter-notebook-docker-compose) scripts. Follow the instructions bellow to start the container:
 * Generate the password token and put it in **.env** file:\
 `generate_token.py -p S-E-C-R-E-T` 
-* Generet cert file or use the one in SSLCERT folder:\
+* Genere cert file or use the one in SSLCERT folder:\
 `openssl req -x509 -nodes -newkey rsa:2048 -keyout jupyter.pem -out jupyter.pem`
 * Adapt **.env** variables, alter variables directories:
     * LOCAL_WORKING_DIR
